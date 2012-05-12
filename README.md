@@ -29,6 +29,12 @@ link...
      data-allowdelete="yes" />
 ```
 
+## Example
+
+You can view an online example via Github pages:
+
+[http://rodnaph.github.com/attendn/](http://rodnaph.github.com/attendn/)
+
 ## Disclaimer
 
 There's no authentication or approval for adding and deleting attendees, so attendn
